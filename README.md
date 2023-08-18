@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rowan Austin
+- 👋 Hi, I’m Rowan
 - 👀 I’m interested in working in a Quant Research or Development role in Finance. I'm working on this repository to practice and showcase my interests in algorithmic trading strategies.
 - 🌱 I’m currently learning ... Github!
 
